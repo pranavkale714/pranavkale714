@@ -1,7 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo23511
-Fork on GitHub8030
 <h1 align="center">Hi 👋, I'm Pranav Kale</h1>
 <h3 align="center">A passionate Java Backend developer</h3>
 
