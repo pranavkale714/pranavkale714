@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pranav Kale</h1>
-<h3 align="center">A passionate Java Backend developer</h3>
+<h3 align="center">
+  A passionate Java Backend Developer | Implementation Engineer @ Samichinam Solution |
+  <br>Expert in Spring Framework, RESTful APIs, Microservices, and Cloud Integration
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavkale714&label=Profile%20views&color=0e75b6&style=flat" alt="pranavkale714" /> </p>
 
